@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "782906014301",
+    "project_id": "mezo-jokes",
+    "storage_bucket": "mezo-jokes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782906014301:android:ff589e25b8548b51acabb4",
+        "android_client_info": {
+          "package_name": "com.street.jokes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782906014301-pvkb226acrielb9v2skdknfmt0q94ear.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.street.jokes",
+            "certificate_hash": "ab2d9f447c57e994bec448588af67b5bb01d0d5f"
+          }
+        },
+        {
+          "client_id": "782906014301-iidqn34qjbn3mahj4c49nvuuqciu64a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd3lpcqhdKLPPrT-tkj-ugcAfq5r0qCjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782906014301-iidqn34qjbn3mahj4c49nvuuqciu64a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
